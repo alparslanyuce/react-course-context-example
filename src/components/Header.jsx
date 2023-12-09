@@ -11,7 +11,7 @@ function Header() {
         //cevap dönüyor
         dispatch({
             type: 'LOGIN',
-            payload: {,
+            payload: {
                 //dönen cevap burası
                 name:'alparslan',
                 id:1
